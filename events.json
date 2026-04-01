@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Digital Marketing Summit 2025",
+    "date": "April 12, 2025 - 10:00 AM",
+    "location": "Islamabad - Gulberg Greens",
+    "description": "Learn modern digital marketing strategies from industry experts."
+  },
+  {
+    "name": "Software Engineering Conference",
+    "date": "May 8, 2025 - 09:00 AM",
+    "location": "Lahore",
+    "description": "Explore trends in web, mobile, and cloud development."
+  },
+  {
+    "name": "Startup Networking Meetup",
+    "date": "June 18, 2025 - 05:00 PM",
+    "location": "Karachi",
+    "description": "Connect with founders, investors, and tech enthusiasts."
+  },
+  {
+    "name": "UI/UX Design Workshop",
+    "date": "July 5, 2025 - 11:00 AM",
+    "location": "Rawalpindi",
+    "description": "Hands-on workshop on modern UI/UX design principles."
+  },
+  {
+    "name": "AI & Machine Learning Bootcamp",
+    "date": "August 10, 2025 - 09:00 AM",
+    "location": "Islamabad",
+    "description": "Deep dive into AI, ML, and real-world applications."
+  },
+  {
+    "name": "Cyber Security Seminar",
+    "date": "September 2, 2025 - 01:00 PM",
+    "location": "Lahore",
+    "description": "Learn about ethical hacking and cyber defense."
+  },
+  {
+    "name": "E-commerce Growth Workshop",
+    "date": "October 14, 2025 - 03:00 PM",
+    "location": "Karachi",
+    "description": "Boost your online store with modern strategies."
+  },
+  {
+    "name": "Freelancing Masterclass",
+    "date": "November 20, 2025 - 06:00 PM",
+    "location": "Online",
+    "description": "Learn how to earn online using freelancing platforms."
+  }
+]
